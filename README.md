@@ -9,7 +9,7 @@ Teetoise is a full-stack productivity and collaboration tool built using modern 
 - Main Repository: [teetoise-main](https://github.com/Raj0168/teetoise-main)
 - Frontend Repo: [teetoise-frontend](https://github.com/Raj0168/teetoise-frontend)
 - Backend Repo: [teetoise-backend](https://github.com/Raj0168/teetoise-backend)
-- GitHub Project Board: [Teetoise – Project Board](https://github.com/users/Raj0168/projects/1)
+- GitHub Project Board: [Teetoise – Project Board](https://github.com/users/Raj0168/projects/2)
 
 ---
 
