@@ -107,23 +107,22 @@ Example:
 ## Features
 
 - User Authentication (JWT)
-- Kanban-style Task & Project Management
+- Project Management
 - Role-based Access Control
 - Backend API with RESTful Routes
-- Frontend Built with React + Tailwind
-- Dockerized Backend Setup
+- Frontend Built with React + Material UI
 - Project Tracking via GitHub Projects
 
 ---
 
 ## Tech Stack
 
-| Category     | Tech                                   |
-| ------------ | -------------------------------------- |
-| Frontend     | React, Vite, Tailwind CSS, Zustand     |
-| Backend      | Node.js, Express, MongoDB (Mongoose)   |
-| DevOps/Infra | GitHub Actions, Docker, Railway/Render |
-| Project Mgmt | GitHub Projects                        |
+| Category     | Tech                                  |
+| ------------ | ------------------------------------- |
+| Frontend     | React, Vite, Material UI, SCSS, Redux |
+| Backend      | Node.js, Express, PostgreSQL          |
+| DevOps/Infra | AWS EC2, Amplify                      |
+| Project Mgmt | GitHub Projects                       |
 
 ---
 
@@ -153,19 +152,8 @@ Make sure you configure your `.env` file for backend and frontend. Refer to each
 
 ## Project Management Workflow
 
-All features were organized and tracked using the [GitHub Project Board](https://github.com/users/Raj0168/projects/1).  
+All features were organized and tracked using the [GitHub Project Board](https://github.com/users/Raj0168/projects/2).  
 Tasks such as `Frontend Development`, `Backend Development`, and `DevOps & Infrastructure` were completed with clean separation and progress tracking.
-
----
-
-## Future Improvements
-
-- [ ] Real-time features using WebSockets
-- [ ] Email notifications & reminders
-- [ ] Dark mode toggle
-- [ ] Unit & E2E testing with Jest/Cypress
-
----
 
 ## Author
 
