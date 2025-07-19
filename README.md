@@ -145,12 +145,12 @@ Frequently asked questions section.
 
 ## Tech Stack
 
-| Category     | Tech                                  |
-| ------------ | ------------------------------------- |
-| Frontend     | React, Vite, Material UI, SCSS, Redux |
-| Backend      | Node.js, Express, PostgreSQL          |
-| DevOps/Infra | AWS EC2, Amplify                      |
-| Project Mgmt | GitHub Projects                       |
+| Category     | Tech                                 |
+| ------------ | ------------------------------------ |
+| Frontend     | React, CRA, Material UI, SCSS, Redux |
+| Backend      | Node.js, Express, PostgreSQL         |
+| DevOps/Infra | AWS EC2, Amplify                     |
+| Project Mgmt | GitHub Projects                      |
 
 ---
 
