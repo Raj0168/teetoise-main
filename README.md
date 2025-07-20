@@ -31,17 +31,17 @@ User login screen with email/password.
 
 ### Register Page
 
-User registration screen with input validation.  
+User registration screen with input validation and OTP verification using mail.  
 <img src="public/screenshots/0.Register.webp" alt="Register Page" width="150" />
 
 ### Home Page – Banner and Promotions
 
-Landing page with promotional banners and featured collections.  
+Landing page with promotional banners, featured collections, categories, blogs.
 <img src="public/screenshots/1.Home_1.webp" alt="Home Banner" width="150" />
 
 ### Home Page – Featured Products
 
-Section showcasing trending and new arrival items.  
+More on Home screen.  
 <img src="public/screenshots/2.Home_2.webp" alt="Featured Products" width="150" />
 
 ### Sidebar Navigation
@@ -64,7 +64,7 @@ Detailed product information with image gallery and color, size options.
 Category, price range, and size filters.  
 <img src="public/screenshots/5.Product_filters.webp" alt="Product Filters" width="150" />
 
-### Alternate Product View
+### More Product details
 
 Product manufacturer and quality details.  
 <img src="public/screenshots/6.Product_details_2.webp" alt="Product Detail Variant" width="150" />
