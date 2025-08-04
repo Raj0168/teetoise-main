@@ -37,6 +37,7 @@ User registration screen with input validation and OTP verification using mail.
 ### Home Page – Banner and Promotions
 
 Landing page with promotional banners, featured collections, categories, blogs.
+<br/>
 <img src="public/screenshots/1.Home_1.webp" alt="Home Banner" width="150" />
 
 ### Home Page – Featured Products
