@@ -195,4 +195,4 @@ For more projects and contact details, check out my GitHub profile.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Raj0168/teetoise-main/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
